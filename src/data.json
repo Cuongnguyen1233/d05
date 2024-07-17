@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Rock Climbing",
+        "pict": "pages/1dd959fe5a5f1442cdde8123f3f0d86c.jpg",
+        "price": 100
+    },
+    {
+        "id": "p02",
+        "name": "caramen mousset",
+        "pict": "images/caramen mousset.png",
+        "price": 103
+    },
+    {
+        "id": "p03",
+        "name": "muffin raisin",
+        "pict": "images/muffin raisin.png",
+        "price": 90
+    },
+    {
+        "id": "p04",
+        "name": "opera cake",
+        "pict": "images/opera.png",
+        "price": 150
+    },
+    {
+        "id": "p05",
+        "name": "passion cheese",
+        "pict": "images/passion cheese.png",
+        "price": 20
+    },
+    {
+        "id": "p06",
+        "name": "pate chaud",
+        "pict": "images/pate chaud.png",
+        "price": 190
+    },
+    {
+        "id": "p07",
+        "name": "chocolate 1",
+        "pict": "images/sweet 1.png",
+        "price": 120
+    },
+    {
+        "id": "p08",
+        "name": "chocolate 2",
+        "pict": "images/sweet 2.png",
+        "price": 150
+    },
+    {
+        "id": "p09",
+        "name": "chocolate 3",
+        "pict": "images/sweet 3.png",
+        "price": 140
+    },
+    {
+        "id": "p10",
+        "name": "chocolate 4",
+        "pict": "images/sweet 4.png",
+        "price": 230
+    },
+    {
+        "id": "p11",
+        "name": "chocolate 5",
+        "pict": "images/sweet 5.png",
+        "price": 99
+    }
+]

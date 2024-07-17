@@ -1,0 +1,9 @@
+.form-label {
+    border: 1px;
+    padding: 10px;
+    border-radius: 1px;
+    display: inline;
+    margin: 20px;
+    white-space: nowrap;
+
+}
